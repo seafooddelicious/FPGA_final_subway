@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2022.2 (64-bit)
+# SW Build 3671981 on Fri Oct 14 05:00:03 MDT 2022
+# IP Build 3669848 on Fri Oct 14 08:30:02 MDT 2022
+# Start of session at: Wed Apr 19 19:42:39 2023
+# Process ID: 8856
+# Current directory: C:/Users/603/Desktop/FPGA/final/final.runs/impl_1
+# Command line: vivado.exe -log SUBWAY.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source SUBWAY.tcl -notrace
+# Log file: C:/Users/603/Desktop/FPGA/final/final.runs/impl_1/SUBWAY.vdi
+# Journal file: C:/Users/603/Desktop/FPGA/final/final.runs/impl_1\vivado.jou
+# Running On: 603lab, OS: Windows, CPU Frequency: 2112 MHz, CPU Physical cores: 12, Host memory: 68448 MB
+#-----------------------------------------------------------
+source SUBWAY.tcl -notrace
